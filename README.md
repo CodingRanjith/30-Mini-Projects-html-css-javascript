@@ -18,7 +18,7 @@
 | # Project No |                                                           Topics                                                            |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------: |
 | 1 | [Basic Calculator](https://codingranjith.github.io/30-Web-Projects-with-HTML-CSS-JavaScript/Project%201%20-%20Basic%20Calculator/) |
-| 2 | [Images Search Engine]() |
+| 2 | [Images Search Engine](https://codingranjith.github.io/30-Web-Projects-with-HTML-CSS-JavaScript/Project%202%20-%20Image%20Search%20Engine/) |
 
 
 <hr>
