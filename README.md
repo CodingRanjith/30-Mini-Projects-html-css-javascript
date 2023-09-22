@@ -15,9 +15,10 @@
 </div>
 
 
-| # Project |                                                           Topics                                                            |
+| # Project No |                                                           Topics                                                            |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------: |
-| 1 | [Basic Calculator]() |
+| 1 | [Basic Calculator](https://codingranjith.github.io/30-Web-Projects-with-HTML-CSS-JavaScript/Project%201%20-%20Basic%20Calculator/) |
+| 2 | [Images Search Engine]() |
 
 
 <hr>
